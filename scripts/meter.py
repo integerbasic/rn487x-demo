@@ -1,5 +1,5 @@
 #
-# Simple BLE device example #4, analog input
+# Simple BLE device example #3, analog input
 # =============================================
 #
 # This client script will read an analog signal collected by the remote device.

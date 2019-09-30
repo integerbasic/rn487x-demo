@@ -1,5 +1,5 @@
 #
-# Simple BLE device example #1, digital control
+# Simple BLE device example #2, digital control
 # =============================================
 #
 # This client script will flash a remote LED on and off.

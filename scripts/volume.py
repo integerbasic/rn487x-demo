@@ -1,5 +1,5 @@
 #
-# Simple BLE device example #2, analog control
+# Simple BLE device example #4, analog control
 # =============================================
 #
 # This client script will vary the brightness of a remote LED over a continuous range.

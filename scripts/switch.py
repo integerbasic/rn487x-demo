@@ -1,5 +1,5 @@
 #
-# Simple BLE device example #3, digital input
+# Simple BLE device example #1, digital input
 # =============================================
 #
 # This client script will report when a remote switch is opened or closed.
