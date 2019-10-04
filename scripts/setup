@@ -1,0 +1,21 @@
+#!/usr/bin/bash -e
+
+#
+# script to install the prerequisites for the python example code.
+# this script has been tested on Debian 10 and hould be sufficient
+# for most Debian-based distributions such as Ubuntu
+#
+# For Fedora based distributions such as Redhat, a *similar* process
+# should be possible using 'dnf' in place of 'apt'.
+# 
+sudo apt install \
+     libbluetooth-dev \
+     libboost-python-dev \
+     libboost-thread-dev \
+     libglib2.0 \
+     pkg-config \
+     python-bluez \
+     python-pip
+
+sudo pip install gattlib
+

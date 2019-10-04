@@ -16,9 +16,9 @@
 #    @PW_ON
 #    SW,0A,09
 #    @PIO1H
-#    SHW,0072,1
+#    SHW,0072,01
 #    @PIO1L
-#    SHW,0072,0
+#    SHW,0072,00
 #
 # The characteristic handle (72 in the example above) must match the handle created for the service.
 #

@@ -12,6 +12,8 @@
 #
 # The script for the server (BLE device):
 #
+#    @PW_ON
+#    SW,0A,00
 #    @CONN
 #    SM,2,0010
 #    @DISCON
