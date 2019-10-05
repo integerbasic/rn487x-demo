@@ -12,8 +12,6 @@
 #
 # The script for the server (BLE device):
 #
-#    @PW_ON
-#    SW,0A,00
 #    @CONN
 #    SM,2,0010
 #    @DISCON
@@ -22,11 +20,6 @@
 #    $VAR1=@,2
 #    SHW,0072,$VAR1
 #    SM,2,0010
-#
-# Alternative script that should work, and would be more power efficient, but doesn't. :(
-#
-#    @CONN
-#    %0072=@,2
 #
 # The characteristic handle (72 in the example above) must match the handle created for the service.
 #
